@@ -3,6 +3,8 @@
 	src: url("./JetBrainsMono.ttf");
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Roboto&display=swap');
+
 :root {
 	--primary-color: #000;
 }
@@ -19,14 +21,14 @@ body {
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
-	font-family: "Futura Std";
+	font-family: Futura Std, Roboto, sans-serif;;
 }
 
 .welcome {
-	font-family: Impact;
+	font-family: Oswald, sans-serif;;
 }
 
-.date.head {
+#date.head {
 	font-family: JetBrainsMono;
 }
 
