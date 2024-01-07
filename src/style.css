@@ -19,7 +19,7 @@ body {
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
-	font-family: JetBrainsMono;
+	font-family: JetBrainsMono, Arial, "Segoe UI";
 }
 
 img {
