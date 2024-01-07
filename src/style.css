@@ -26,7 +26,7 @@ body {
 	font-family: Impact;
 }
 
-#date .head {
+.date.head {
 	font-family: JetBrainsMono;
 }
 
@@ -127,7 +127,6 @@ url-list {
 
 li {
 	margin-left: 2.8em;
-	line-height: .75em;
 }
 
 li:first-child {
