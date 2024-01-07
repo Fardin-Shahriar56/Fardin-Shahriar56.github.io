@@ -18,6 +18,7 @@ html {
 
 body {
 	display: flex;
+	align-items: center;
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
@@ -142,7 +143,7 @@ li:first-child {
 
 a {
 	color: var(--primary-color);
-	font-family: Futura Std, sans-serif;
+	font-family: Futura Std;
 	font-size: 1.15em;
 	text-decoration: none;
 	transition: color ease-out 0.2s;
