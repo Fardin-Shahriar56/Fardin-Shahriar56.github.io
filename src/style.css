@@ -18,7 +18,7 @@ html {
 
 body {
 	display: flex;
-	align-items: baseline;
+	align-items: center;
 	justify-content: center;
 	color: var(--secondary-color);
 	background: var(--bg-color);
