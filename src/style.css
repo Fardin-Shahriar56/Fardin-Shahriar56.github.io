@@ -21,15 +21,11 @@ body {
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
-	font-family: Futura Std, Roboto, sans-serif;
+	font-family: JetBrainsMono, Futura Std, Roboto, sans-serif;
 }
 
 .welcome {
 	font-family: Oswald, sans-serif;
-}
-
-.head {
-	font-family: JetBrainsMono;
 }
 
 img {
@@ -145,7 +141,8 @@ li:first-child {
 
 a {
 	color: var(--primary-color);
-	font-size: 1.1em;
+	font-family: Futura Std, sans-serif;
+	font-size: 1.15em;
 	text-decoration: none;
 	transition: color ease-out 0.2s;
 }
