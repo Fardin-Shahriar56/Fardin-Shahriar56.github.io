@@ -23,7 +23,7 @@ body {
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
-	font-family: JetBrainsMono, Futura Std, Roboto, sans-serif;
+	font-family: JetBrainsMono, Roboto, sans-serif;
 }
 
 .welcome {
@@ -144,8 +144,8 @@ li:first-child {
 
 a {
 	color: var(--primary-color);
-	font-family: Futura Std;
-	font-size: 1.15em;
+	font-family: Roboto, sans-serif;
+	font-size: 1.125em;
 	text-decoration: none;
 	transition: color ease-out 0.2s;
 }
