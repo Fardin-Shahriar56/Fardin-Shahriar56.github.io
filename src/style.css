@@ -126,6 +126,7 @@ url-list {
 
 li {
 	margin-left: 2.8em;
+	font-family: JetBrainsMono;
 }
 
 li:first-child {
