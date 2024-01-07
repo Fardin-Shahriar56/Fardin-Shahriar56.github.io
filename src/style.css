@@ -21,11 +21,11 @@ body {
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
-	font-family: Futura Std, Roboto, sans-serif;;
+	font-family: Futura Std, Roboto, sans-serif;
 }
 
 .welcome {
-	font-family: Oswald, sans-serif;;
+	font-family: Oswald, sans-serif;
 }
 
 .head {
