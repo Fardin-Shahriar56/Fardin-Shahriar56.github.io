@@ -18,7 +18,8 @@ html {
 
 body {
 	display: flex;
-	align-items: center;
+	align-items: baseline;
+	justify-content: center;
 	color: var(--secondary-color);
 	background: var(--bg-color);
 	padding: 1em;
